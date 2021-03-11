@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\73949\Downloads\知识图谱唐宇迪\知识图谱唐宇迪\第五章：基于知识图谱的医药问答系统实战\QAMedicalKG\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
